@@ -1,0 +1,146 @@
+/* START  navigation module CSS here   */
+.navbar{
+	
+	/* background-image:url("images/RCB.jpg"); */
+	background-image:linear-gradient(rgba(28, 53, 214, 0.5),rgba(66, 237, 240, 0.836));
+
+	margin-bottom: 40px;
+}
+.navbar-brand img{
+height: 5rem;
+margin-right:10px;
+position:relative;
+bottom:-2px;
+
+}
+.navbar li{
+margin-right:25px;
+font-size: 20px;
+
+}
+
+/* END  navigation module CSS here   */
+
+/* START CAROUSEL MODULES CSS */
+#carousel img
+{
+	height:550px;
+          
+}
+
+/* END CAROUSEL MODULES CSS*/
+
+/* START THREE PHOTO MODULES CSS*/
+#threePhotoSection img
+{
+	width:420px;
+	height:300px;
+	border-radius:50%;
+	margin:10px;
+}
+#threePhotoSection img:hover
+{
+	width:425px;
+	height:300px;
+	border-radius:20%;
+	opacity:0.7;
+}
+#threePhotoSection h3
+{
+margin-top:50px;
+margin-bottom:50px;
+}
+#threePhotoSection
+{
+	margin-bottom:30px;
+}
+.card{
+	background-image: url("images/minions.png")
+}
+
+/* END OF THREE PHOTO MODULES CSS*/
+
+/* START OF PARAGRAPH MODULES CSS*/
+#moreAboutUs h3 
+{
+	padding:25px;
+	padding-bottom:40px;
+	color:aqua;
+}
+
+#moreAboutUs  blockquote
+{
+	padding:55px;
+	
+}
+#moreAboutUs
+{
+	background-image: url("images/mini\ pic.jpg");
+	background-size: cover;
+	color:black;
+}
+
+/*-- Resources Section --*/
+
+/* END OF PARAGRAPH MODULES CSS*/
+
+/* START OF TABLE MODULE CSS*/
+
+
+
+/* END OF TABLE MODULE CSS*/
+
+/* START OF FORM MODULES CSS*/
+.contact{
+    background-image: url("images/minions\ 2.jfif");
+    background-size: cover;
+   }
+.contact1{
+    color: rgba(250, 250, 23, 0.926);
+}
+
+/* END OF FORM MODULES CSS*/
+
+/* START OF BUTTON CSS*/
+.btn{
+	margin-left:auto;
+	margin-right:auto;display:block;
+	margin-bottom:50px;
+   margin-top:50px;
+}
+
+/* END OF BUTTON CSS*/
+
+ /* START OF FOOTER CSS*/
+ footer{
+	background-color: black;
+	color: white;
+	padding: 2rem 0 2rem;
+	margin-top: 1rem;
+}
+.footerlogo{
+    height: 2px;
+    width: 2px;
+    margin-left: 35px;
+}
+/* footer img{
+	height: 3rem;
+	margin: 1.5rem 0;
+} */
+footer a{
+	color:white;
+}
+.hero{
+    color: rgb(59, 59, 238);
+}
+.hero h3{
+    color: white;
+}
+.hero strong{
+    color: white;
+}
+.hero p:hover{
+    color: white;
+    background-color: black;
+} 
+ /* END OF FOOTER CSS*/
